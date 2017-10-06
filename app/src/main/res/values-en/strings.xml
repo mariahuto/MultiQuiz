@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="comprovar">CHECK</string>
+    <string name="pregunta">Question</string>
+    <string name="missatge_correcte">Great!</string>
+    <string name="missatge_incorrecte">Wrong...</string>
+    <string name="SEGÜENT">NEXT</string>
+    <string name="ACABA">FINISH</string>
+    <string name="ANTERIOR">PREVIOUS</string>
+</resources>
